@@ -1,0 +1,3 @@
+2021-04-30 23:37:25.764019: width of tire: 205 mm, aspect ratio of tire: 60, diameter of the wheel: 15 inches, Volume: 39924.49041517438 ml.
+2021-04-30 23:39:04.994345: width of tire: 185 mm, aspect ratio of tire: 50, diameter of the wheel: 14 inches, Volume: 24090.081969909246 ml.
+2021-04-30 23:39:04.994345: width of tire: 205 mm, aspect ratio of tire: 60, diameter of the wheel: 15 inches, Volume: 39924.49041517438 ml.
